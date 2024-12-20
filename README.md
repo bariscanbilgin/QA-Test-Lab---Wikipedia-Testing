@@ -21,3 +21,5 @@ Tests :
 - See Notifications
 - Successful Logout
   
+
+![WikipediaManualTestSheet](https://github.com/user-attachments/assets/8ec7a414-0327-42d2-b33d-7b152fe6175a)
