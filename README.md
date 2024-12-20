@@ -20,7 +20,12 @@ Tests :
 - Successful Search
 - See Notifications
 - Successful Logout
-  
+
+2. Wikipedia automation testing document got prepared with the tests below : 
+- Successful Login
+- Wrong Username
+- Wrong Password
+
 ---
 ![WikipediaManualTestSheet](https://github.com/user-attachments/assets/8ec7a414-0327-42d2-b33d-7b152fe6175a)
 ---
