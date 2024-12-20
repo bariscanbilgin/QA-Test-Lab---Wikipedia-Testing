@@ -21,5 +21,9 @@ Tests :
 - See Notifications
 - Successful Logout
   
-
+---
 ![WikipediaManualTestSheet](https://github.com/user-attachments/assets/8ec7a414-0327-42d2-b33d-7b152fe6175a)
+---
+![allureReport](https://github.com/user-attachments/assets/fefa35f8-b616-4e81-98d0-d0218f113b5a)
+---
+![allureSuiteReport](https://github.com/user-attachments/assets/12474529-44b2-4d7a-a75c-6e21a48c2664)
